@@ -174,3 +174,7 @@
   </ul>
   <!-- End of Sidebar -->
 </template>
+<script>
+export default {
+}
+</script>
